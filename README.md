@@ -17,11 +17,7 @@ someone who is passionate about creating,learning new things and ❤️ writing 
 ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/heroku-informational?style=flat&logo=heroku&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Netlify-informational?style=flat&logo=Netlify&logoColor=ColorName&color=black)
-## 🌱 I'm currently learning...
-##- 📫 How to reach me: 
-<p align="center">
-	<a href="https://www.linkedin.com/in/zeynep-alpaslan/"></a>
-</p>
+
 <!--
 **CodingEinhornDeu/CodingEinhornDeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,7 +28,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
