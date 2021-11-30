@@ -17,7 +17,8 @@ someone who is passionate about creating,learning new things and ❤️ writing 
 ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/heroku-informational?style=flat&logo=heroku&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Netlify-informational?style=flat&logo=Netlify&logoColor=ColorName&color=black)
-🌱 I'm currently reading ... Eloquent JavaScript - Marijn Haverbeke
+<br/><br/>
+<h2>🌱 I'm currently reading ... Eloquent JavaScript - Marijn Haverbeke </h2>
   
 <!--
 **CodingEinhornDeu/CodingEinhornDeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
