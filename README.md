@@ -20,7 +20,8 @@ someone who is passionate about creating,learning new things and ❤️ writing 
 <br/><br/>
 <h2>🌱 I'm currently reading ...</h2> 
   <p>Eloquent JavaScript - Marijn Haverbeke </p>
-  
+  You can reach me: https://www.linkedin.com/in/zeynep-alpaslan/
+  ⚡ Fun fact:loves unicorns!
 <!--
 **CodingEinhornDeu/CodingEinhornDeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,5 +33,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 
 -->
