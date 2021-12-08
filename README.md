@@ -21,7 +21,8 @@ someone who is passionate about creating,learning new things and ❤️ writing 
 <h2>🌱 I'm currently reading ...</h2> 
   <p>Eloquent JavaScript - Marijn Haverbeke </p>
   You can reach me: https://www.linkedin.com/in/zeynep-alpaslan/
-  ⚡ Fun fact:loves unicorns!
+  <br/>
+ ⚡ Fun fact: I believe in unicorns!
 <!--
 **CodingEinhornDeu/CodingEinhornDeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
