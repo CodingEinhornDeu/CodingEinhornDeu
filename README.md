@@ -16,7 +16,8 @@ someone who is passionate about creating,learning new things and ❤️ writing 
 ![](https://img.shields.io/badge/NPM-informational?style=flat&logo=npm&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/heroku-informational?style=flat&logo=heroku&logoColor=ColorName&color=black)
-![](https://img.shields.io/badge/Netlify-inf<br/>
+![](https://img.shields.io/badge/Netlify-informational?style=flat&logo=heroku&logoColor=ColorName&color=black)
+<br/>
 <h2>🌱 I'm currently reading ...</h2> 
   <p>Eloquent JavaScript - Marijn Haverbeke </p>
   <h2>🔗 You can reach me: https://www.linkedin.com/in/zeynep-alpaslan/</h2> 
